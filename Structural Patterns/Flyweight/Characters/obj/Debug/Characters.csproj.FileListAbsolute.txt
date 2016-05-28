@@ -1,0 +1,8 @@
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Structural Patterns\Flyweight\Characters\bin\Debug\Characters.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Structural Patterns\Flyweight\Characters\bin\Debug\Characters.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Structural Patterns\Flyweight\Characters\bin\Debug\Characters.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Structural Patterns\Flyweight\Characters\bin\Debug\Sop.dll
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Structural Patterns\Flyweight\Characters\bin\Debug\Sop.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Structural Patterns\Flyweight\Characters\obj\Debug\Characters.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Structural Patterns\Flyweight\Characters\obj\Debug\Characters.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Structural Patterns\Flyweight\Characters\obj\Debug\Characters.pdb
