@@ -1,0 +1,15 @@
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\bin\Debug\BoolInterpreter.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\bin\Debug\BoolInterpreter.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\bin\Debug\BoolInterpreter.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\obj\Debug\BoolInterpreter.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\obj\Debug\BoolInterpreter.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\bin\Debug\MPT.Parsers.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\bin\Debug\MPT.Parsers.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\obj\Debug\BoolInterpreter.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\BoolInterpreter\bin\Debug\BoolInterpreter.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\BoolInterpreter\obj\Debug\BoolInterpreter.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\BoolInterpreter\obj\Debug\BoolInterpreter.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\BoolInterpreter\bin\Debug\BoolInterpreter.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\BoolInterpreter\bin\Debug\BoolInterpreter.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\BoolInterpreter\bin\Debug\Parsers.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\BoolInterpreter\obj\Debug\BoolInterpreter.csprojResolveAssemblyReference.cache

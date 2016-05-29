@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\bin\Debug\RegExInterpreter.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\bin\Debug\RegExInterpreter.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\bin\Debug\RegExInterpreter.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\obj\Debug\RegExInterpreter.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\obj\Debug\RegExInterpreter.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\RegExInterpreter\obj\Debug\RegExInterpreter.pdb
