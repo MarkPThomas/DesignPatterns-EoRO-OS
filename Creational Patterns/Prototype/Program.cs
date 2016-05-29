@@ -26,7 +26,7 @@ namespace MazePrototype
                                                                                 new BombedWallPrototype(),
                                                                                 new RoomWithABombPrototype(),
                                                                                 new DoorPrototype());
-            maze = game.CreateMaze(simpleMazeFactory);
+            maze = game.CreateMaze(bombedMazeFactory);
         }
     }
 }
