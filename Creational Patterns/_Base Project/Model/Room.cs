@@ -8,15 +8,15 @@ namespace MazeDemo.Model
 {
     public class Room : MapSite
     {
-        private MapSite[] _sides = new MapSite[4];
+        protected MapSite[] _sides = new MapSite[4];
 
-        public int RoomNumber { get; private set; }
+        public int RoomNumber { get; protected set; }
 
         public Room(int roomNo)
         {
             RoomNumber = roomNo;
         }
-
+        
         public MapSite GetSide(Direction direction)
         {
             return _sides[(int)direction];

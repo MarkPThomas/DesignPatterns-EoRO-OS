@@ -8,9 +8,9 @@ namespace MazeDemo.Model
 {
     public class Door : MapSite
     {
-        private Room _room1;
-        private Room _room2;
-        private bool _isOpen;
+        protected Room _room1;
+        protected Room _room2;
+        protected bool _isOpen;
 
         public Door(Room room1, Room room2)
         {
