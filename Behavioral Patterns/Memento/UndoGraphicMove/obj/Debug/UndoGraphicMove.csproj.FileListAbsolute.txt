@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Memento\UndoGraphicMove\bin\Debug\UndoGraphicMove.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Memento\UndoGraphicMove\bin\Debug\UndoGraphicMove.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Memento\UndoGraphicMove\bin\Debug\UndoGraphicMove.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Memento\UndoGraphicMove\obj\Debug\UndoGraphicMove.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Memento\UndoGraphicMove\obj\Debug\UndoGraphicMove.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Memento\UndoGraphicMove\obj\Debug\UndoGraphicMove.pdb
